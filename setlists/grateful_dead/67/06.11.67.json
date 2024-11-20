@@ -1,0 +1,13 @@
+{
+    "date": "June 11, 1967",
+    "day": "Sunday",
+    "venue": "Cafe au Go-Go",
+    "city": "New York City",
+    "region": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}
