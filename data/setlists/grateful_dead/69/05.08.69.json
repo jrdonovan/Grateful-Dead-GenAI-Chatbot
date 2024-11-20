@@ -1,0 +1,13 @@
+{
+    "date": "May 8, 1969",
+    "day": "Thursday",
+    "venue": "Unknown Venue",
+    "city": "Unknown City",
+    "region": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

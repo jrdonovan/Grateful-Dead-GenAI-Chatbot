@@ -1,0 +1,13 @@
+{
+    "date": "May 5, 1968",
+    "day": "Sunday",
+    "venue": "Central Park",
+    "city": "New York City",
+    "region": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}
